@@ -1,5 +1,3 @@
-<h1>THIS SECRET IS SOOOOO 9 YEARS AGO*</H1>
+![SECRET REPO](./opensource-animation.gif)
 
-![SECRET REPO](https://raw.githubusercontent.com/stemount/stemount/master/9years.png)
-
-<h3>* may not be true</h3>
+* obviously this needs a profile lol, eventually.
