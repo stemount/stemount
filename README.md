@@ -8,7 +8,7 @@ I specialise in **cloud infrastructure**, **technical architecture** and **provi
 
 I've worked on websites for fantastic companies with web traffic that is from 200K to 40Million hits over 8 hours, having worked with my valued clients:
 
-<img src='./temp/clients.png' width='90%' />
+<img src='./temp/clients.png' width='100%' />
 
 </div>
 
