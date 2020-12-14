@@ -8,7 +8,7 @@ I specialise in **cloud infrastructure**, **technical architecture** and **provi
 
 I've worked on websites for fantastic companies with web traffic that is from 200K to 40Million hits over 8 hours, having worked with my valued clients:
 
-<img src='./temp/clients.png' width='100%' />
+<a href="#"><img src='./temp/clients.png' width='100%' /></a>
 
 </div>
 
@@ -38,7 +38,7 @@ Use **Terraform/CloudFormation** for infrastructure management including hybrid 
 
 <br />
 
-<div align='center'><img src='./temp/cloud-low-code-tech.png' width='80%' /></div>
+<div align='center'><a href="#"><img src='./temp/cloud-low-code-tech.png' width='80%' /></a></div>
 
 </div>
 
@@ -47,7 +47,6 @@ Use **Terraform/CloudFormation** for infrastructure management including hybrid 
 ---
 
 <div align='center'>
-
 
 ### Get in touch
 
